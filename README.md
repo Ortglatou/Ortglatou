@@ -5,7 +5,7 @@ My name is André. I'm 17 and have been studying programming for some years.
 ## 🔭 I’m currently working on
 
 Currently working on my completion of course work, it's an approach to the
-traveling sallesman problem using division and conquer
+travelling salesman problem using division and conquer
 
 ## 🌱 I’m currently learning
 
