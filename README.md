@@ -14,7 +14,7 @@ Rust, but I also like to make projects with other languages
 
 ## 🧰 My toolbox
 
-Languages I fell more confortable with
+Tools I fell more confortable with
 
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
