@@ -5,11 +5,11 @@ My name is André. I'm 17 and have been studying programming for some years.
 ## 🔭 I’m currently working on
 
 Currently working on my completion of course work, it's an approach to the
-travelling sallesman problem using division and conquer
+traveling sallesman problem using division and conquer
 
 ## 🌱 I’m currently learning
 
-Apart from what I'm seeing at school the language I'm focusing on currently is
+Apart from what I'm seeing at school, the language I'm focusing on currently is
 Rust, but I also like to make projects with other languages
 
 ## 🧰 My toolbox
