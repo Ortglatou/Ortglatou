@@ -30,7 +30,7 @@ Tools I fell more confortable with
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ortglatou&theme=buefy&layout=compact">
+![Top langs](https://github-readme-stats-ortglatou.vercel.app/api/top-langs/?username=Ortglatou&theme=buefy&layout=compact&exclude_repo=github-readme-stats,dotfiles)
 
 ## 📫 How to reach me
 
